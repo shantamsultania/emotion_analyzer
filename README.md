@@ -1,2 +1,2 @@
-# emotion_analyzer
-Emotion analysis using Keras and Tensorflow
+# Emotion_Analyzer
+Emotion analysis using Keras and Tensorflow .
